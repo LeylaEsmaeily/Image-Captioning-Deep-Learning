@@ -19,4 +19,4 @@ This project implements an Image Captioning system using Deep Learning.
 - Python
 
 ## Files
-- Untitled6 (2).ipynb
+- ImageCaption.ipynb
